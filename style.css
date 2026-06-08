@@ -428,3 +428,6 @@ body{
   }
   .dot{width:36px;height:36px}
 }
+
+/* Removed video labels */
+.video-tag{display:none !important;}
